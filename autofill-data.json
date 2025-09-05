@@ -1,1 +1,18 @@
-{}
+{
+  "name": "autofill-data.json",
+  "path": "autofill-data.json",
+  "sha": "0967ef424bce6791893e9a57bb952f80fd536e93",
+  "size": 3,
+  "url": "https://api.github.com/repos/yocse4/autofill-data.json/contents/autofill-data.json?ref=main",
+  "html_url": "https://github.com/yocse4/autofill-data.json/blob/main/autofill-data.json",
+  "git_url": "https://api.github.com/repos/yocse4/autofill-data.json/git/blobs/0967ef424bce6791893e9a57bb952f80fd536e93",
+  "download_url": "https://raw.githubusercontent.com/yocse4/autofill-data.json/main/autofill-data.json",
+  "type": "file",
+  "content": "e30K\n",
+  "encoding": "base64",
+  "_links": {
+    "self": "https://api.github.com/repos/yocse4/autofill-data.json/contents/autofill-data.json?ref=main",
+    "git": "https://api.github.com/repos/yocse4/autofill-data.json/git/blobs/0967ef424bce6791893e9a57bb952f80fd536e93",
+    "html": "https://github.com/yocse4/autofill-data.json/blob/main/autofill-data.json"
+  }
+}
